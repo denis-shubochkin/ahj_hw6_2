@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/1r4xqnery0t3mxqc?svg=true)](https://ci.appveyor.com/project/denis-shubochkin/ahj-hw6-1)
+[![Build status](https://ci.appveyor.com/api/projects/status/d4c8b64v4bpcljpf?svg=true)](https://ci.appveyor.com/project/denis-shubochkin/ahj-hw6-2)
 
 Правила сдачи задания:
 
