@@ -1,5 +1,5 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/d4c8b64v4bpcljpf?svg=true)](https://ci.appveyor.com/project/denis-shubochkin/ahj-hw6-2)
-
+https://denis-shubochkin.github.io/ahj_hw6_2/
 Правила сдачи задания:
 
 1. **Важно**: в рамках этого ДЗ нужно использовать yarn (поэтому файла `package-lock.json` в репозитории быть не должно)
